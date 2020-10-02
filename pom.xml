@@ -12,7 +12,7 @@
 	<artifactId>Pecunia-Bank</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Pecunia-Bank</name>
-	<description>Pecunia Bank App</description>
+	<description>Pecunia Bank</description>
 
 	<properties>
 		<java.version>11</java.version>
